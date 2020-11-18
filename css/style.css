@@ -1,1 +1,33 @@
-/* Denna fil skall innehålla din CSS kod */
+* {
+    margin: 0;
+}
+
+.allaFractions {
+    display: grid;
+    width: 100vw;
+    height: 150vh;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(9, 1fr);
+    grid-template-areas: 
+    "he he he"
+    "se se se"
+    "s2 s2 s2"
+    "s2 s2 s2"
+    "ar ar ar"
+    "ar ar ar"
+    "ar ar ar"
+    "ft ft ft"
+    "ft ft ft"
+    ;
+}
+.headerMain {
+
+}
+
+.divs {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "dv dv dv"
+    ;
+}
