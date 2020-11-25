@@ -27,25 +27,20 @@
     padding: 20px;
     font-size: 30px;
     color: white;
-    background-color: rgba(109, 109, 170, 0.582));
+    background-color: rgba(109, 109, 170, 0.171);
 }
 
-.divs {
+.divs { 
     display: grid;
     text-align: center;
     font-size: 20px;
     grid-area: se;
     grid-gap: 2px;
+    background-color: rgba(255, 255, 255, 0.767);
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: 
     "dv dv dv"
     ;
-    opacity: 0.5;
-
-}
-
-.länkDivs {
-    background-color: antiquewhite;
 }
 
 .bild {
