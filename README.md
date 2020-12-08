@@ -35,3 +35,4 @@ En logga till restaurangen gjord i Photoshop (eller Gimp, Krita, mfl).  Loggan s
 	Sista lektionen att arbeta med projektet
 
 Söndag 13 december: Deadline inlämning
+
