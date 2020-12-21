@@ -47,10 +47,10 @@
     display: grid;
     justify-content: center;
     width: 100vw;
-    height: 170vh;
+    height: auto;
     background-color: black;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 0.9fr 0.3fr 3fr 2fr 1.5fr;
+    grid-template-rows: 0.7fr 0.3fr 3fr 2fr 1.5fr;
     grid-template-areas: 
     "he he he"
     "n1 n1 n1"
